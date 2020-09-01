@@ -1,0 +1,7 @@
+
+add_subdirectory(edit_cloud)
+add_subdirectory(display_match)
+add_subdirectory(display_trie)
+add_subdirectory(display_suffix_tree)
+add_subdirectory(st_build_lcp)
+add_subdirectory(readmappers)
